@@ -1,0 +1,3 @@
+com.zlin.spi.ImgUpload
+com.zlin.spi.PdfUpload
+com.zlin.spi.TxtUpload
